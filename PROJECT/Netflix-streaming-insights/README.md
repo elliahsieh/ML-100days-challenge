@@ -16,7 +16,7 @@ The objectives of this project are as follows:
 ## Data Source
 
 The dataset for this analysis can be found at:
-- [Netflix Movies and TV Shows - Movies and TV Shows Listings on Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Tools and Libraries
 
@@ -25,28 +25,6 @@ The dataset for this analysis can be found at:
 - **Seaborn**: For statistical data visualization.
 - **Pandas Profiling**: For generating detailed data reports and visualizations.
 - **Wordcloud**: For creating word cloud visualizations.
-
-## Pandas Profiling
-
-Pandas Profiling is used to generate comprehensive reports from DataFrames. To use pandas-profiling, follow these steps:
-
-1. **Import pandas-profiling**:
-    ```python
-    import pandas_profiling
-    ```
-
-2. **Generate Data Report**:
-    ```python
-    data = # Your DataFrame here
-    profile = pandas_profiling.ProfileReport(data)
-    ```
-
-3. **Export Report**:
-    ```python
-    profile.to_file('report.html')
-    ```
-
-**Note**: When using Pandas, ensure to consider encoding parameters and handle missing or anomalous values appropriately. Analyze data ranges and assess significant value discrepancies.
 
 ## Basic Goals
 
