@@ -28,7 +28,7 @@ This project focuses on the in-depth analysis and visualization of COVID-19 data
 
 ### COVID-19 Open Research Dataset Challenge (CORD-19)
 
-- **Source:** [CORD-19 Dataset on Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
+- **Source:** [COVID-19 Open Research Dataset (CORD-19)](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
 
 The CORD-19 dataset, provided by an alliance of the White House and leading research teams, is a comprehensive resource for understanding the COVID-19 pandemic. This dataset is freely accessible to the global research community for the application of natural language processing and AI technologies to generate actionable insights and support ongoing efforts to combat the pandemic.
 
